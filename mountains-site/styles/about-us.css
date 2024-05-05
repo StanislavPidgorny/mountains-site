@@ -1,0 +1,40 @@
+.about-us-container {
+    padding: 0px 200px;
+}
+
+.about-us-title {
+    color: #f2af29;
+    text-align: center;
+}
+
+.about-us-info-1 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.about-us-info-2 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.about-us-info-3 {
+    color: #f2af29;
+}
+
+.about-us-ul {
+    color: #f2af29;
+}
+
+.about-us-li {
+    color: #e0e0e0;
+}
+
+@media screen and (max-width: 440px) {
+    .main-body-ab-us{
+        max-width: 440px;
+    }
+    
+    .about-us-container {
+        padding: 0px 10px;
+    }
+}
